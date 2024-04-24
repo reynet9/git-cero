@@ -1,4 +1,4 @@
-# git-cero
+# git desde cero con Dalto
 Primer repo creado en GitHub
 
 ## descripcion
