@@ -1,2 +1,2 @@
-nombre = 'urquidi'
-print (f"Hola{nombre.title()}")
+nombre = 'tyson'
+print (f"Hola {nombre.title()}")
